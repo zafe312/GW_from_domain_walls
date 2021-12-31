@@ -1,0 +1,7 @@
+Download this folder and extract
+There are 2 main sections of the program: DW simulation and GW calculation
+Open command prompt and go to the folder
+Make all the files executable by ....
+Open model_params.py and edit the parameters as required
+Type ./run.sh and wait till the whole process ends
+Check the spectrum, saved as an image
